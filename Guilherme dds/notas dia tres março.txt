@@ -1,0 +1,6 @@
+escreva um algoritmo que leia dois valores inteiro distintos e informe qual é o maior
+laço de repetição é para provar se a condição é verdadeira ou falsa
+, chamar variável e só 
+* pesquisar em casa biblioteca e como usa-lá
+4 precisa fazer o resto da divisão
+2 botar o valor de empréstimo e calcular os 30% dos 1000 mil reais

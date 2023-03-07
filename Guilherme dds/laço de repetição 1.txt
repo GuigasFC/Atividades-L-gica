@@ -1,0 +1,20 @@
+programa
+{
+	
+	funcao inicio()
+	{
+      real nota1, nota2, nota3, resultado
+   escreva ("Informe a sua 1ª nota: ")
+   leia (nota1)
+   escreva ("Informe a sua 2ª nota: ")
+   leia (nota2)
+   escreva ("Informe a sua 3ª nota: ")
+   leia (nota3)
+   resultado = (nota1+nota2+nota3)/3
+   limpa()
+   se (resultado>=10){
+   escreva("Parabéns você foi aprovado, a sua nota é: "+resultado)}
+   senao {
+   escreva ("Infelizmente você não foi aprovado estude mais, o seu resultado é: "+resultado)}
+}
+}

@@ -1,0 +1,42 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	inteiro opcao
+	 real resultado,num1,num2,pratos,valor=19.99,soma,pagamento,soma2
+	escreva("Informe a opção desejada")
+	escreva("1) KG LIVRE R$ 19,90 \n")
+	escreva("2) KG PESADO R$ 79,90 \n")
+	escreva ("Informe a opção que deseja")
+	leia (opcao)
+	limpa()
+	 escolha (opcao)
+        {
+            caso 1:
+            escreva("Informe quantos pratos deseja:")
+            leia (pratos)
+            soma=pratos*valor
+            escreva("Valor total é:" , soma,"\n")
+            escreva("Informe o pagamento")
+            leia (pagamento)
+            soma2=pagamento-soma
+            escreva("O seu troco é: ", soma2)
+            pare
+            caso 2:
+            
+            pare
+           
+            caso contrario:
+            escreva("Opção Invalida!")
+        }
+
+        escreva("\n")
+
+	
+	
+	
+	
+	
+	}
+}

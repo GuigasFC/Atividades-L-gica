@@ -1,0 +1,12 @@
+programa {
+  funcao inicio() {
+    real nota1, nota2,media
+    escreva ("insira a primeira nota: ")
+    leia(nota1)
+    escreva ("insira a segunda nota: ")
+    leia (nota2)
+    media= (nota1 + nota2) / 2
+    escreva ("a sua média é: "+media)
+
+  }
+}

@@ -1,0 +1,19 @@
+programa
+{
+	funcao inicio()
+	{
+	real quantidadedepecas, pecasdefeituosas, valorpercentualcomdefeito
+	escreva ("Informe a quantidade de peças total da empresa: ")
+	leia(quantidadedepecas)
+	escreva ("Informe a quantidade de peças defeituosas da empresa: ")
+	leia(pecasdefeituosas)
+	valorpercentualcomdefeito = 0.90 * quantidadedepecas
+	se (quantidadedepecas>valorpercentualcomdefeito){
+		escreva ("A máquina precisa de manutenção")
+	}
+	senao {
+		escreva("A máquina não precisa de manutenção")
+	}
+	
+	}
+}

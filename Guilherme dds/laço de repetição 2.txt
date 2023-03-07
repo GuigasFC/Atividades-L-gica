@@ -1,0 +1,19 @@
+programa
+{
+	
+	funcao inicio()
+	{
+	real valor1, valor2
+	escreva("Digite um número: ")
+	leia(valor1)
+	escreva("Digite um segundo número: ")
+	leia(valor2)
+	se (valor1>valor2){
+		escreva("O primeiro número é maior que o segundo")
+	}
+	senao {
+		escreva("O segundo número é maior que o primeiro")
+	}
+	
+	}
+}

@@ -1,0 +1,2 @@
+Insira temperatura em graus celsius p/ fahrenheit. (utilize a fórmula padrão)
+Faça o fluxograma e o passo a passo desse exercício

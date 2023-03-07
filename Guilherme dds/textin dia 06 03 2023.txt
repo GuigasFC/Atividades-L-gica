@@ -1,0 +1,17 @@
+faça um programa que mostre os dois tipos de buffet: 
+Kg livre = 19,9
+Kg pesado = 79,9
+
+Informe (usuário):?
+mostrar p/ o usuário quanto deu o quilo e dar o troco
+usando a função escolha
+
+exercício saque
+valor 1000 em conta corrente
+saque (-)
+valor em conta
+mostrar quanto de dinheiro vai ser sacado e o saldo total
+ 
+depositar
+mostrar o saldo total
+ 

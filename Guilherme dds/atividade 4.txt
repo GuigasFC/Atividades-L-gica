@@ -1,0 +1,10 @@
+programa {
+  funcao inicio() {
+  real Grau,Resultado,For
+  escreva ("Informe a temperatura em graus celsius: ") 
+  leia(Grau)
+  Resultado = (Grau * 32/5)
+  For = (Resultado+ 4)
+  escreva("O resultado em Fahrenheit é: "+ For)  
+  }
+}
